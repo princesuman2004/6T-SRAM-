@@ -1,5 +1,5 @@
 # 6T SRAM Cell Design and In-Memory Computing
-
+Presentaion: https://1drv.ms/p/s!AhQL2OKQpwSNiWutqVwenbWirp-5?e=a0B9nf
 ## Project Objective
 Design and analyze a 6T SRAM cell and implement basic in-memory computing techniques. This includes CMOS design and layout of the 6T SRAM cell and logic implementation of AND, OR, and XOR gates within the 6T structure.
 
