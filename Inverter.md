@@ -31,13 +31,6 @@ To design and simulate a CMOS inverter circuit, ensuring its performance and rel
    - **AC Analysis:** Assess the frequency response, gain, and phase characteristics.
    - **Transient Analysis:** Observe the time-domain response to input signal changes and switching behavior.
 
-4. **Collect Data:**
-   - Record key performance metrics such as propagation delay, power consumption, and noise margins.
-   - Gather simulation waveforms showing input and output voltages over time.
-
-5. **Analyze Results:**
-   - Compare the simulated inverter performance with theoretical expectations.
-   - Evaluate the efficiency and reliability of the inverter circuit based on the simulation data.
 
 ## Results
 
@@ -54,11 +47,6 @@ To design and simulate a CMOS inverter circuit, ensuring its performance and rel
   - **Propagation Delay:** Time taken for the input signal to propagate through the inverter and affect the output.
   - **Waveforms:** Key voltage waveforms illustrating the inverter’s dynamic response.
 
-## Documentation
-
-- **Schematic Diagram:** Detailed diagram of the CMOS inverter circuit used in simulations.
-- **Simulation Results:** Graphs, charts, and tables summarizing the inverter’s performance metrics.
-- **Analysis Notes:** Observations and interpretations of inverter behavior based on simulation results.
 
 ## Conclusion
 
