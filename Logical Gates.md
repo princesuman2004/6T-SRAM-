@@ -21,9 +21,6 @@ To design and create the schematic, symbol, and layout for basic logic gates, an
    - Generate the layout for each logic gate based on the schematic design.
    - Ensure the layout adheres to design rules and optimizes for performance.
 
-3. **Document Design:**
-   - Record the schematic diagrams, symbols, and layout for each logic gate.
-   - Prepare detailed documentation for each design element.
 
 ## Results
 
